@@ -1,0 +1,66 @@
+.container {
+  font-family: Verdana, Geneva, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.inner-container {
+  width: 85%;
+}
+
+.logo-container {
+  border: 1px solid #ffffff;
+  float: left;
+  margin-right: 5px;
+  height: 18px;
+}
+
+.header {
+  background-color: rgb(255, 102, 0);
+  padding: 6px;
+  font-size: 0.8rem;
+}
+
+.brand {
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.login {
+  float: right;
+}
+
+.content {
+  background-color: #f6f6ef;
+  padding: 5px;
+  font-size: 0.8rem;
+}
+
+.list {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.item {
+  padding: 8px;
+}
+
+.links {
+  text-decoration: none;
+  color: #000000;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.site-url a {
+  text-decoration: none;
+  color: #828282;
+  font-size: 11px;
+}
+
+.sub {
+  font-size: 9px;
+  color: #828282;
+}
